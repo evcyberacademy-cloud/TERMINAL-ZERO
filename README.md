@@ -1,8 +1,6 @@
 # TERMINAL-ZERO
 
 
-
-# TERMINAL ZERO
 ### An EV Cyber Academy CTF Experience
 
 A pure-Bash, terminal-based cybersecurity decision game. No GUI, no browser —
